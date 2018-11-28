@@ -1,7 +1,8 @@
 
 
 1)	Architecture Utilisée:
- ![Screenshot](frontend-to-backend-sails-angular.jpg)
+ ![alt text](https://raw.githubusercontent.com/mohgue/ClCo/branch/path/to/frontend-to-backend-sails-angular.jpg)
+
 a.	Le Modèle
 Le modèle détermine quelles données l'application doit contenir. Si l'état de ces données change, alors le modèle va généralement avertir la vue (donc l'affichage peut changer au besoin) et parfois le contrôleur (dans le cas où une logique différente est nécessaire pour contrôler la modification de la vue).
 b.	La Vue
