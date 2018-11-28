@@ -13,7 +13,7 @@ b.	La Vue
 c.	Le contrôleur
 Le contrôleur contient toute la logique de mise à jour du modèle et/ou la vue en   réponse aux entrées (actions) de l'utilisateur sur l'application.
         
-	Dans notre application Le modèle contiendra le code permettant d’accéder           aux SGBD. Toutes requêtes SQL ou équivalent doit donc être dans le modèle.
+Dans notre application Le modèle contiendra le code permettant d’accéder aux SGBD. Toutes requêtes SQL ou équivalent doit donc être dans le modèle.
 La vue contiendra les pages qui seront affichées à l’utilisateur. C’est-à-dire la page au notre application également afficher ,Le contrôleur sert d’aiguillage. Il reçoit la demande de l’utilisateur, appelle le modèle si nécessaire et appelle la vue à transmettre au client.
            Quand on réalise une application avec l’architecture MVC, il faut que toutes demandes de l’utilisateur passent par le contrôleur. Aucun affichage ne sera généré par le contrôleur ou le modèle. Dans notre application le contrôleur est le service CLOUD .
 
