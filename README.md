@@ -14,6 +14,7 @@ Le contrôleur contient toute la logique de mise à jour du modèle et/ou la vue
 La vue contiendra les pages qui seront affichées à l’utilisateur. C’est-à-dire la page au notre application également afficher ,Le contrôleur sert d’aiguillage. Il reçoit la demande de l’utilisateur, appelle le modèle si nécessaire et appelle la vue à transmettre au client.
            Quand on réalise une application avec l’architecture MVC, il faut que toutes demandes de l’utilisateur passent par le contrôleur. Aucun affichage ne sera généré par le contrôleur ou le modèle. Dans notre application le contrôleur est le service CLOUD .
 2)	Architecture générale d’une application de base de données :
+![untitled diagram](https://user-images.githubusercontent.com/35038332/49132551-20fdd380-f2dd-11e8-8540-8cfef76fbdfe.png)
  
 3)	Stratégies de gestion des clients :
 Deux stratégies se présentent à nous :
